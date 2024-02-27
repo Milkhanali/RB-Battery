@@ -88,12 +88,12 @@ body{
         margin-left: 30px;
     }
     .top-icons i{
-        font-size: 50px;
+        font-size: 18px;
         margin: 2px;
         
     }
     .other-links i{
-        font-size: 50px;
+        font-size: 18px;
         margin: 2px;
     }
     #btn-login{
@@ -110,10 +110,10 @@ body{
         margin-left: 20px;
     }
     .top-icons i{
-        font-size: 10px;
+        font-size: 17px;
     }
     .other-links{
-        margin-right: 10px;
+        margin-right: 17px;
     }
     .other-links i{
         font-size: 10px;
