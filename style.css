@@ -88,12 +88,12 @@ body{
         margin-left: 30px;
     }
     .top-icons i{
-        font-size: 80px;
-        padding: 2px;
+        font-size: 30px;
+        margin: 2px;
     }
     .other-links i{
         font-size: 30px;
-        padding: 2px;
+        margin: 2px;
     }
     #btn-login{
         width: 60px;
