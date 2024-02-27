@@ -113,10 +113,10 @@ body{
         font-size: 17px;
     }
     .other-links{
-        margin-right: 17px;
+        margin-right: 15px;
     }
     .other-links i{
-        font-size: 10px;
+        font-size: 17px;
     }
     #btn-login{
         width: 50px;
@@ -127,6 +127,7 @@ body{
         width: 60px;
         height: 4vh;
         font-size: 10px;
+        margin-right: 10px;
     }
 }
 @media screen and (max-width:350px){
